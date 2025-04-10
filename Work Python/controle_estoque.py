@@ -16,7 +16,7 @@ def conectar():
         )
     ''')
     conn.commit()
-    
+    return conn
 
 def inserir_produto(nome, categoria, quantidade, preco):
     conn = conectar()
