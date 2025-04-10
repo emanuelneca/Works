@@ -37,3 +37,8 @@ python -m pip install --upgrade --extra-index-url https://PySimpleGUI.net/instal
 4- Execute o script:
 
 python controle_estoque.py
+
+.
+.
+.
+Sistema Rodando!
